@@ -1,0 +1,136 @@
+<Results>
+    <GeneralInfo>
+        <Name/>
+        <RunStartTime>2018-08-22 22:18:12</RunStartTime>
+        <Timezone>RTZ 2 (зима)</Timezone>
+        <OrchestrationToolName>JUnit</OrchestrationToolName>
+        <OrchestrationToolVersion/>
+        <ReportTitle>LeanFT Report</ReportTitle>
+        <CustomFields name="Mobile Center Server:" value="http://mc.bell-main.bellintegrator.ru:8080"/>
+    </GeneralInfo>
+    <ReportNode type="Run">
+        <Data>
+            <Name>Run Results</Name>
+            <Description><![CDATA[ ]]></Description>
+            <StartTime>2018-08-22 22:18:12</StartTime>
+            <Result>Passed</Result>
+            <Links/>
+            <Duration><![CDATA[00:01:03.516]]></Duration>
+            <Extension>
+                <Any>
+                    <IconKey>Run</IconKey>
+                    <IsHtmlErrorText>true</IsHtmlErrorText>
+                </Any>
+            </Extension>
+            <Environment>
+                <OSInfo><![CDATA[Microsoft Windows NT 6.2.9200.0]]></OSInfo>
+                <HostName><![CDATA[NB-704]]></HostName>
+                <NumberOfCores>8</NumberOfCores>
+                <CpuInfo/>
+                <TotalMemory>8087</TotalMemory>
+                <Locale><![CDATA[ru-RU]]></Locale>
+                <Timezone><![CDATA[RTZ 2 (зима)]]></Timezone>
+                <User>VChekusov</User>
+            </Environment>
+            <TestedApplication/>
+            <ToolName>LeanFT</ToolName>
+            <ToolVersion><![CDATA[14.03]]></ToolVersion>
+        </Data>
+        <ReportNode type="Package">
+            <Data>
+                <Name>page</Name>
+                <Description><![CDATA[Version: N/A]]></Description>
+                <StartTime>2018-08-22 22:18:13</StartTime>
+                <Result>Passed</Result>
+                <Links/>
+                <Duration><![CDATA[00:01:03.183]]></Duration>
+                <Extension>
+                    <Any>
+                        <IconKey>Package</IconKey>
+                        <IsHtmlErrorText>true</IsHtmlErrorText>
+                    </Any>
+                </Extension>
+            </Data>
+            <ReportNode type="Class">
+                <Data>
+                    <Name><![CDATA[page.YouTubeTest]]></Name>
+                    <Description/>
+                    <StartTime>2018-08-22 22:18:13</StartTime>
+                    <Result>Passed</Result>
+                    <Links/>
+                    <Duration><![CDATA[00:01:03.183]]></Duration>
+                    <Extension>
+                        <Any>
+                            <IconKey>Class</IconKey>
+                            <IsHtmlErrorText>true</IsHtmlErrorText>
+                        </Any>
+                    </Extension>
+                </Data>
+                <ReportNode type="Test">
+                    <Data>
+                        <Name>testYouTube</Name>
+                        <Description/>
+                        <StartTime>2018-08-22 22:18:13</StartTime>
+                        <Result>Passed</Result>
+                        <Links/>
+                        <Duration><![CDATA[00:01:03.181]]></Duration>
+                        <Extension>
+                            <Any>
+                                <IconKey>Test</IconKey>
+                                <IsHtmlErrorText>true</IsHtmlErrorText>
+                            </Any>
+                        </Extension>
+                    </Data>
+                    <ReportNode type="CustomStep">
+                        <Data>
+                            <Name><![CDATA[Выполнил вход на главную страницу]]></Name>
+                            <Description><![CDATA[Passed]]></Description>
+                            <StartTime>2018-08-22 22:18:22</StartTime>
+                            <Result>Passed</Result>
+                            <Links/>
+                            <Duration><![CDATA[00:00:00.000]]></Duration>
+                            <Extension>
+                                <Any>
+                                    <IconKey>CustomStep</IconKey>
+                                    <IsHtmlErrorText>true</IsHtmlErrorText>
+                                </Any>
+                            </Extension>
+                        </Data>
+                    </ReportNode>
+                    <ReportNode type="CustomStep">
+                        <Data>
+                            <Name><![CDATA[Загрузка файла завершена]]></Name>
+                            <Description><![CDATA[Passed]]></Description>
+                            <StartTime>2018-08-22 22:19:06</StartTime>
+                            <Result>Passed</Result>
+                            <Links/>
+                            <Duration><![CDATA[00:00:00.000]]></Duration>
+                            <Extension>
+                                <Any>
+                                    <IconKey>CustomStep</IconKey>
+                                    <IsHtmlErrorText>true</IsHtmlErrorText>
+                                </Any>
+                            </Extension>
+                        </Data>
+                    </ReportNode>
+                    <ReportNode type="CustomStep">
+                        <Data>
+                            <Name><![CDATA[Тест выполнен]]></Name>
+                            <Description><![CDATA[Passed]]></Description>
+                            <StartTime>2018-08-22 22:19:09</StartTime>
+                            <Result>Passed</Result>
+                            <Links/>
+                            <Duration><![CDATA[00:00:00.000]]></Duration>
+                            <Extension>
+                                <Any>
+                                    <IconKey>CustomStep</IconKey>
+                                    <IsHtmlErrorText>true</IsHtmlErrorText>
+                                </Any>
+                            </Extension>
+                        </Data>
+                    </ReportNode>
+                </ReportNode>
+            </ReportNode>
+        </ReportNode>
+    </ReportNode>
+</Results>
